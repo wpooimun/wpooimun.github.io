@@ -5,5 +5,5 @@ title: Home
 
 Welcome. Choose a profile:
 
-- [Full CV](/cv)
+# - [Full CV](/cv)
 - [Coaching Profile](/coaching_profile)
