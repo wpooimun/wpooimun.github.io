@@ -13,7 +13,8 @@ Personal Human System Coach
 * Works primarily with researchers, entrepreneurs, managers, tertiary students, and technical professionals
 
 **This profile is organised into:**  
-[[#Positioning Statement]] •  [[#Interest Statement]] • [[#Areas of Support]] • [[#Support Philosophy]] • [[#Selected Testimonials]] • [[#Professional Background]] • [[#Relevant Qualifications]]
+[Positioning Statement](#positioning-statement) •  [Interest Statement](#interest-statement) •  [Areas of Support](#areas-of-support)
+[Support Philosophy](#support-philosophy) •  [Selected Testimonials](#selected-testimonials) •  [Professional Background](#professional-background) •  [Relevant Qualifications](#relevant-qualifications)
 
 
 ## Positioning Statement
