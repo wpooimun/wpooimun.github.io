@@ -3,7 +3,6 @@ layout: page
 title: Coaching Profile
 ---
 
-# Elena Wong
 Personal Human System Coach
 
  **At a Glance**
