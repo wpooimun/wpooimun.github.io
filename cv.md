@@ -7,15 +7,16 @@ title: Full CV
 
 # EXPERIENCES
 
-**Research Fellow** | Full-Time | NUS | **Jun 2024 - Present**
+## Research Fellow
+**NUS** · Full-Time  
+Jun 2024–Present
+- Led a research team using Agile methodologies to ensure seamless integration of project components and timely resolution of blockers.
 
-·        Led a research team using Agile methodologies to ensure seamless integration of project components and timely resolution of blockers.
+- Managed progress tracking against key milestones to facilitate successful completion of monthly deliverables.
 
-·        Managed progress tracking against key milestones to facilitate successful completion of monthly deliverables.
+- Designed system architecture and data structure to ensure alignment with project objectives and optimize workflow coordination.
 
-·        Designed system architecture and data structure to ensure alignment with project objectives and optimize workflow coordination.
-
-·        Identified research gaps, structured manuscript to highlight research novelty, facilitated focused technical discussions, managed communication challenges within the team, and validated research findings collaboratively.
+- Identified research gaps, structured manuscript to highlight research novelty, facilitated focused technical discussions, managed communication challenges within the team, and validated research findings collaboratively.
 
 **Founder & Behavioural Systems Designer** | Full-Time | Independent Initiative | **Nov 2023 - Present**
 
