@@ -27,7 +27,7 @@ Many capable and intelligent people assume that their struggles will disappear w
 
 I help people explore these patterns by examining the interaction between their behaviour, assumptions, interests, thought process, environments, and workflows as a personal system. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
 
-I work particularly well with people who has a clear goal and
+I work particularly well with people who have a clear goal and
 - has made initial progress but struggled to sustain results or maintain habits.
 - made little to no meaningful progress despite strong intention, often due to disruptions, inertia, or uncertainty.
 
@@ -35,7 +35,7 @@ I work particularly well with people who has a clear goal and
 ## Interest Statement
 My work has always centred on understanding how people function within complex systems. Through research, system design, mentorship, and now coaching, I have explored the same question from different angles: "What helps people navigate complexity to sustain meaningful progress while staying human?"
 
-While I valued contributing knowledge through academic, I found myself increasingly drawn to work where I could observe its impact in real life. Rather than contributing academic ideas whose impact may remain unknown for years or even decades, I now have the opportunity to work alongside the people applying those ideas, learning from their experiences, and continuously refining what is useful in practice collaboratively.
+While I have a love for academia, I find myself increasingly drawn to work with real life impact. Rather than contributing academic ideas whose impact may remain unknown for years or even decades, I now have the opportunity to work alongside the people applying those ideas, learning from their experiences, and continuously refining what is useful in practice collaboratively.
 
 
 # Areas of Support
