@@ -25,7 +25,7 @@ Many capable and intelligent people assume that their struggles will disappear w
 - returning to square one despite sustained effort
 - finding conventional productivity advice ineffective or unsustainable for them
 
-I help people explore these patterns by examining the interaction between their behaviour, assumptions, interests, thought process, environments, and workflows as a personal system. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
+I help people become the designers of their daily routines and personal operating systems by examining, exploring, and experimenting with patterns in their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
 
 I work particularly well with people who have a clear goal and
 - has made initial progress but struggled to sustain results or maintain habits.
