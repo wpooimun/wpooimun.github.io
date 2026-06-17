@@ -25,7 +25,7 @@ Many capable and intelligent people assume that their struggles will disappear w
 - returning to square one despite sustained effort
 - finding conventional productivity advice ineffective or unsustainable for them
 
-I help people become the designers of their daily routines and personal operating systems by examining, exploring, and experimenting with patterns in their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
+I help people become the designers of their personal operating systems by studying the patterns that shape their lives. These patterns often includes their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
 
 I work particularly well with people who have a clear goal and
 - has made initial progress but struggled to sustain results or maintain habits.
@@ -35,7 +35,7 @@ I work particularly well with people who have a clear goal and
 ## Interest Statement
 My work has always centred on understanding how people function within complex systems. Through research, system design, mentorship, and now coaching, I have explored the same question from different angles: "What helps people navigate complexity to sustain meaningful progress while staying human?"
 
-While I have a love for academia, I find myself increasingly drawn to work with real life impact. Rather than contributing academic ideas whose impact may remain unknown for years or even decades, I now have the opportunity to work alongside the people applying those ideas, learning from their experiences, and continuously refining what is useful in practice collaboratively.
+While I have a deep appreciation for academia, I find myself increasingly drawn to work with tangible, real-world impact. In academic settings, the influence of an idea often remain unknown for years, or even decades. Now, I have the opportunity to test and adapt ideas in real-time, by working alongside the people, learning from their experiences, and continuously refining what is useful in practice.
 
 
 # Areas of Support
