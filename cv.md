@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Full CV
+nav_exclude: true
 ---
 
-[elenawpm@gmail.com](mailto:elenawpm@gmail.com) | [https://www.linkedin.com/in/pooi-mun-wong-89b07515b/](https://www.linkedin.com/in/pooi-mun-wong-89b07515b/)
+| [elenawpm@gmail.com](mailto:elenawpm@gmail.com) | [https://www.linkedin.com/in/pooi-mun-wong-89b07515b/](https://www.linkedin.com/in/pooi-mun-wong-89b07515b/) |
 
 # EXPERIENCES
 
