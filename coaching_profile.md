@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Coaching Profile
+nav_exclude: true
 ---
 
 Personal Human System Coach
