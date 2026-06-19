@@ -10,7 +10,7 @@ The engagement is intended as a supplementary structured resource, not tuition, 
 
 There is no formal commitment or school involvement needed.
 
-# Voluntary structured support for students navigating academic and personal challenges
+# Support structure
 Pro-bono engagement may be offered to youths who would benefit from additional structured conversational support during periods of academic, personal, or transitional difficulty.
 
 These sessions are provided virtually and entirely free of charge. Sessions are arranged only upon mutual agreement before the beginning of any sessions, with no financial obligation and no expectation of continued paid engagement thereafter. 
@@ -27,6 +27,7 @@ Potential topics include, but are not limited to:
 4. Navigating uncertainty in degree choices, career direction, or future planning
 5. Strengthening self-understanding, confidence, and independent decision-making
 6. Regaining stability after emotionally disruptive experiences such as friendship conflicts or breakups
+
 # How sessions may help
 Depending on the youth's situation and comfort level, sessions may support them in:
 - clarifying the underlying obstacles stemming from internal or external factors
@@ -35,6 +36,7 @@ Depending on the youth's situation and comfort level, sessions may support them 
 - designing action steps through the path of least resistance
 - increasing confidence in decision-making and handling uncertainty
 Sessions are conversational, adaptive, and solution-oriented in nature, drawing from reflective coaching, collaborative planning, and structured problem solving approaches.
+
 # Important boundaries
 This engagement is intended as a supplementary developmental support tool, offering youths a non-judgmental, confidential, and solution-focused space for reflection and forward planning.
 
