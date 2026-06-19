@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Home
+title: Index
 ---
 
-Welcome. Choose a profile:
+Profiles:
 
 - [Full CV](/cv)
 - [Coaching Profile](/coaching_profile)
 
-Engagement:
+Engagements:
 - [Pro-bono for ND Professionals](/coaching_engagement/pro-bono_nd.md)
 - [Pro-bono for Malaysian Youths](/coaching_engagement/pro-bono_youth.md)
