@@ -26,7 +26,7 @@ Many capable and intelligent people assume that their struggles will disappear w
 - returning to square one despite sustained effort
 - finding conventional productivity advice ineffective or unsustainable for them
 
-I help people become the designers of their personal operating systems by studying the patterns that shape their lives. These patterns often includes their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
+I help people become the designers of their personal operating systems by studying the patterns that shape their lives. These patterns often include their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
 
 I work particularly well with people who have a clear goal and
 - has made initial progress but struggled to sustain results or maintain habits.
