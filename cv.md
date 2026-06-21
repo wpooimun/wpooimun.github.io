@@ -2,7 +2,6 @@
 layout: page
 title: Full CV
 nav_exclude: true
-permalink: /cv/
 ---
 
 | [elenawpm@gmail.com](mailto:elenawpm@gmail.com) | [https://www.linkedin.com/in/pooi-mun-wong-89b07515b/](https://www.linkedin.com/in/pooi-mun-wong-89b07515b/) |
