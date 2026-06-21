@@ -27,6 +27,7 @@ A limited number of engagement places which fees follows the Referral Access Rat
 - Smoothening task transitions
 - Regulating attention
 - Shaping sustainable way of working
+
 **Situation 2:** An individual is already receiving support from another professional and would benefit from complementary developmental support in:
 - Completing homework from existing support
 - Areas mentioned in **Situation 1**
