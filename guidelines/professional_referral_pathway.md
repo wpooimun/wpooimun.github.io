@@ -11,7 +11,7 @@ The following document is for the Referred Client:
 <img
   src="/assets/qr - professional_referral_pathway - client_ver.png"
   alt="QR Code for Referred Client Engagement Document"
-  width="80"> 
+  width="120"> 
 <a href="/engagements/professional_referral_pathway/" target="_blank" rel="noopener noreferrer">
   <button>Engagement Document</button>
 </a>
