@@ -17,7 +17,7 @@ Please provide the following document to the Referred Client:
 <img
   src="/assets/qr - professional_referral_pathway - client_ver.png"
   alt="QR Code for Referred Client Engagement Document"
-  width="180">
+  width="120">
 
 
 # Suitable Referral Situations
