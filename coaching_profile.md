@@ -40,7 +40,7 @@ While I have a deep appreciation for academia, I find myself increasingly drawn 
 
 
 # Areas of Support
-Depending on the situation and with mutual agreement, support may include (1) reflective coaching, (2) Co-Scheduling developmental program, (3) project-related guidance, and (4) other developmental non-clinical approaches. 
+Depending on the situation and with mutual agreement, support may include (1) reflective coaching conversations, (2) Co-Scheduling exercises, (3) project-related guidance, and (4) other developmental non-clinical approaches. 
 
 ## Sustainable Ways of Working
 - Increase awareness of how current habits, routines, and responsibilities affect time, energy, and attention.
