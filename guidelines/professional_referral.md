@@ -20,13 +20,14 @@ A limited number of engagement places which fees follows the Referral Access Rat
 
 # Suitable Referral Situations
 **Situation 1:** An individual would benefit from support in:
-- Gaining clarity in decision making
+- Gaining clarity in priorities and decision making
 - Navigating career transition in technical fields
 - Planning and execution
 - Overcoming procrastination
 - Smoothening task transitions
-- Regulating attention
+- Regulating attention and energy
 - Shaping sustainable way of working
+- Designing routines and habits
 
 **Situation 2:** An individual is already receiving support from another professional and would benefit from complementary developmental support in:
 - Completing homework from existing support
