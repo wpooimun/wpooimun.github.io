@@ -66,7 +66,7 @@ Depending on the situation and with mutual agreement, support may include (1) re
 
 
 # Support Philosophy
-Over the past decade of work, I repeated observed that people function better when the design of their personal system aligns with their lifestyles, responsibilities, strengths, and constraints. When alignment is achieved, many things that once felt difficult often become easier to sustain.
+Over the past decade of work, I repeated observed that people function better when the design of their personal systems align with their lifestyles, responsibilities, strengths, and constraints. When alignment is achieved, many things that once felt difficult often become easier to sustain.
 
 I have benefitted from this philosophy as well. Rather than working against my tendencies, I learned to work with it and design my personal system around it.
 
