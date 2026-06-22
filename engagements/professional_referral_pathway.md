@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Engagement throught Professional Referral Pathway
+title: Engagement through Professional Referral Pathway
 nav_exclude: true
 permalink: /engagements/professional_referral_pathway/
 ---
