@@ -41,7 +41,7 @@ Support may include (1) reflective coaching conversations, (2) Co-Scheduling exe
 # Referral Process
 Professional Referrers may introduce an individual to my services and inform me of the referral. Upon verification with the Professional Referrer, the Referred Client may make an appointment with my services through the standard method for a free 30-minute discovery conversation.
 
-Before proceeding, kindly provide the Referred Client this document: [Engagement Document](https://wpooimun.github.io/engagements/professional_referral_pathway/)
+Before proceeding, kindly provide the Referred Client this document: [Engagement Document](engagements/professional_referral_pathway.md)
 
 A referral does not guarantee engagement of my services. All referrals remain subject to (1) mutual fit, (2) availability of [Referral Access Places](#referral_access_places), (3) client readiness, and (4) prevailing engagement terms.
 
