@@ -6,17 +6,11 @@ permalink: /guidelines/professional_referral_pathway/
 ---
 These guidelines describe how referrals may be made to my services through selected professionals and organizations. The intention is to provide an additional access pathway for individuals who may benefit from my services while maintaining flexibility for both the referrer and me.
 
-# Terminologies
-## Professional Referrer
-The professional or organization that refers an individual to my services.
-## Referred Client
-An individual introduced to my services through a [Professional Referrer](#professional-referrer).
-## Standard Rate
-The prevailing fee for engaging my services.
-## Referral Access Rate
-A fee arrangement determined by me and intended to improve accessibility of support for the [Referred Client](#referred-client).
-## Referral Access Places
-A limited number of engagement places which fees follows the Referral Access Rate.
+Definition of terminologies are provided at the end of the document.
+
+Client's document about this engagement: <a href="engagements/professional_referral_pathway.md" target="_blank" rel="noopener noreferrer">
+  <button>Engagement Document for Referred Client</button>
+</a>
 
 # Suitable Referral Situations
 **Situation 1.** An individual would benefit from support in:
@@ -41,7 +35,7 @@ Support may include (1) reflective coaching conversations, (2) Co-Scheduling exe
 # Referral Process
 Professional Referrers may introduce an individual to my services and inform me of the referral. Upon verification with the Professional Referrer, the Referred Client may make an appointment with my services through the standard method for a free 30-minute discovery conversation.
 
-Before proceeding, kindly provide the Referred Client this document: [Engagement Document](engagements/professional_referral_pathway.md)
+Before proceeding, kindly provide the Referred Client the webpage at the beginning of this document.
 
 A referral does not guarantee engagement of my services. All referrals remain subject to (1) mutual fit, (2) availability of [Referral Access Places](#referral_access_places), (3) client readiness, and (4) prevailing engagement terms.
 
@@ -60,3 +54,16 @@ Information shared during sessions will be treated as confidential, except where
 Either party may discontinue participation in this referral pathway at any time through explicit communication. 
 
 I reserve the right to modify, suspend, or discontinue Referral Access Places, Referral Access Rates, eligibility considerations, and related arrangements at any time.
+
+# Terminologies
+## Professional Referrer
+The professional or organization that refers an individual to my services.
+## Referred Client
+An individual introduced to my services through a [Professional Referrer](#professional-referrer).
+## Standard Rate
+The prevailing fee for engaging my services.
+## Referral Access Rate
+A fee arrangement determined by me and intended to improve accessibility of support for the [Referred Client](#referred-client).
+## Referral Access Places
+A limited number of engagement places which fees follows the Referral Access Rate.
+
