@@ -5,6 +5,9 @@ nav_exclude: true
 permalink: /engagements/professional_referral_pathway/
 ---
 You are receiving this document because a professional has suggested that my services may be relevant to your current situation. The purpose of this document is to help you understand the nature of engagement and determine whether my services may be a suitable fit for your needs and goals.
+
+The link to make an appointment is at the end of the document.
+
 # What I offer
 I help people become the designers of their personal operating systems that can adapt to different situations within their current realities and constraints.
 
@@ -52,8 +55,6 @@ Information will not be shared with the Professional Referrer unless requested b
 # Next Step
 If my services interest you and appear relevant to your needs and goals, I invite you to a free 30-minute discovery conversation. This is an opportunity for us to get to know one another better, explore how we might work together, and determine whether the engagement would be a good fit for both of us.
 
-[BOOK A SESSION](https://cal.com/elena-wong/virtual-coaching?duration=30)
-
-<a href="https://cal.com/elena-wong/virtual-coaching?duration=30">
+<a href="https://cal.com/elena-wong/virtual-coaching?duration=30" target="_blank" rel="noopener noreferrer">
   <button>Book a Session</button>
 </a>
