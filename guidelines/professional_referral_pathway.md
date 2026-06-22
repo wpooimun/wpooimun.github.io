@@ -8,12 +8,10 @@ These guidelines describe how referrals may be made to my services through selec
 
 Definition of terminologies are provided at the end of the document.
 
-## Engagement Document for Referred Client
-Please provide the following document to the Referred Client:
+The following document is for the Referred Client:
 <a href="/engagements/professional_referral_pathway/" target="_blank" rel="noopener noreferrer">
   <button>Engagement Document</button>
 </a>
-
 <img
   src="/assets/qr - professional_referral_pathway - client_ver.png"
   alt="QR Code for Referred Client Engagement Document"
