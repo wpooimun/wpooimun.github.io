@@ -62,4 +62,4 @@ If my services interest you and appear relevant to your needs and goals, I invit
 <img
   src="/assets/qr - discovery_call_booking.png"
   alt="QR Code for Discovery Call Booking"
-  width="180">
+  width="120">
