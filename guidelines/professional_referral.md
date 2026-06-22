@@ -7,10 +7,11 @@ permalink: /guidelines/professional_referral/
 These guidelines describe how referrals may be made to my services through selected professionals and organizations. The intention is to provide an additional access pathway for individuals who may benefit from my services while maintaining flexibility for both the referrer and me.
 
 # Terminologies
-## Professional Referrer
-The professional or organization that refers an individual to my services.
-## Referred Client
-An individual introduced to my services through a [Professional Referrer](#professional-referrer).
+
+| ## Professional Referrer | The professional or organization that refers an individual to my services.                         |
+| ------------------------ | -------------------------------------------------------------------------------------------------- |
+| ## Referred Client       | An individual introduced to my services through a [Professional Referrer](#professional-referrer). |
+
 ## Standard Rate
 The prevailing fee for engaging my services.
 ## Referral Access Rate
@@ -19,7 +20,7 @@ A fee arrangement determined by me and intended to improve accessibility of supp
 A limited number of engagement places which fees follows the Referral Access Rate.
 
 # Suitable Referral Situations
-**Situation 1:** An individual would benefit from support in:
+**Situation 1.** An individual would benefit from support in:
 - Gaining clarity in priorities and decision making
 - Navigating career transition in technical fields
 - Planning and execution
@@ -29,14 +30,14 @@ A limited number of engagement places which fees follows the Referral Access Rat
 - Shaping sustainable way of working
 - Designing routines and habits
 
-**Situation 2:** An individual is already receiving support from another professional and would benefit from complementary developmental support in:
+**Situation 2.** An individual is already receiving support from another professional and would benefit from complementary developmental support in:
 - Completing homework from existing support
 - Areas mentioned in **Situation 1**
 
 # Nature of Support
 I help people become the designers of their personal operating systems by studying the patterns that shape their lives. These patterns often include their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
 
-Support may include (1) reflective coaching, (2) Co-Scheduling developmental program, (3) project-related guidance, and (4) other developmental non-clinical approaches where appropriate and mutually agreed upon. Such support is intended to enhance my services and does not constitute therapy, treatment, diagnosis, or other licensed professional services.
+Support may include (1) reflective coaching conversations, (2) Co-Scheduling exercises, (3) project-related guidance, and (4) other developmental non-clinical approaches where appropriate and mutually agreed upon. Such support is intended to enhance my services and does not constitute therapy, treatment, diagnosis, or other licensed professional services.
 
 # Referral Process
 Professional Referrers may introduce an individual to my services and inform me of the referral. Upon verification with the Professional Referrer, the Referred Client may make an appointment with my services through the standard method for a free 30-minute trial conversation.
