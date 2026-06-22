@@ -2,7 +2,7 @@
 layout: page
 title: Professional Referral Guidelines
 nav_exclude: true
-permalink: /guidelines/professional_referral/
+permalink: /guidelines/professional_referral_pathway/
 ---
 These guidelines describe how referrals may be made to my services through selected professionals and organizations. The intention is to provide an additional access pathway for individuals who may benefit from my services while maintaining flexibility for both the referrer and me.
 
