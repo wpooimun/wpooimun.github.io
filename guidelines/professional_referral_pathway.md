@@ -61,6 +61,8 @@ Either party may discontinue participation in this referral pathway at any time 
 
 I reserve the right to modify, suspend, or discontinue Referral Access Places, Referral Access Rates, eligibility considerations, and related arrangements at any time.
 
+---
+
 # Terminologies
 ## Professional Referrer
 The professional or organization that refers an individual to my services.
