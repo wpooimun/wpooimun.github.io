@@ -6,18 +6,17 @@ permalink: /guidelines/professional_referral_pathway/
 ---
 These guidelines describe how referrals may be made to my services through selected professionals and organizations. The intention is to provide an additional access pathway for individuals who may benefit from my services while maintaining flexibility for both the Professional Referrer and me.
 
-Definition of terminologies are provided at the end of the document.
-
 The following document is for the Referred Client:
 
 <img
   src="/assets/qr - professional_referral_pathway - client_ver.png"
   alt="QR Code for Referred Client Engagement Document"
-  width="120">
-  <a href="/engagements/professional_referral_pathway/" target="_blank" rel="noopener noreferrer">
+  width="120"> 
+<a href="/engagements/professional_referral_pathway/" target="_blank" rel="noopener noreferrer">
   <button>Engagement Document</button>
 </a>
 
+_Definition of terminologies are provided at the end of the document._
 
 # Suitable Referral Situations
 **Situation 1.** An individual would benefit from support in:
@@ -40,11 +39,11 @@ I help people become the designers of their personal operating systems by studyi
 Support may include (1) reflective coaching conversations, (2) Co-Scheduling exercises, (3) project-related guidance, and (4) other developmental non-clinical approaches where appropriate and mutually agreed upon. Such support do not constitute therapy, treatment, diagnosis, or other licensed professional services.
 
 # Referral Process
-Professional Referrers may introduce an individual to my services and inform me of the referral. Upon verification with the Professional Referrer, the Referred Client may make an appointment with my services through the standard method for a free 30-minute discovery conversation.
+1. Professional Referrers may introduce an individual to my services and inform me of the referral. 
+2. The Professional Referrer provide the Referred Client with the engagement document linked at the beginning of this page.
+3. Upon verification with the Professional Referrer, the Referred Client may make an appointment with my services through the standard method for a free 30-minute discovery conversation.
 
-Before proceeding, please provide the Referred Client with the engagement document linked at the beginning of this page.
-
-A referral does not guarantee engagement of my services. All referrals remain subject to (1) mutual fit, (2) availability of [Referral Access Places](#referral-access-places), (3) client readiness, and (4) prevailing engagement terms.
+Note that a referral does not guarantee engagement of my services. All referrals remain subject to (1) mutual fit, (2) availability of [Referral Access Places](#referral-access-places), (3) client readiness, and (4) prevailing engagement terms.
 
 Availability of Referral Access Places may vary over time. When no Referral Access Places are available, Referred Clients may:
 - **Option 1:** Join a waiting list.
