@@ -10,9 +10,8 @@ Definition of terminologies are provided at the end of the document.
 
 ## Engagement Document for Referred Client
 Please provide the following document to the Referred Client.
-
 <a href="/engagements/professional_referral_pathway/" target="_blank" rel="noopener noreferrer">
-  <button>Open Engagement Document</button>
+  <button>Client's Engagement Document</button>
 </a>
 
 <img
