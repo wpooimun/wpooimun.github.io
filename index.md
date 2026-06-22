@@ -9,5 +9,5 @@ Profiles:
 - [Coaching Profile](/coaching_profile)
 
 Engagements:
-- [Pro-bono for ND Professionals](/engagement/pro-bono_nd.md)
-- [Pro-bono for Malaysian Youths](/engagement/pro-bono_youth.md)
+- [Pro-bono for ND Professionals](/engagement/pro-bono_nd)
+- [Pro-bono for Malaysian Youths](/engagement/pro-bono_youth)
