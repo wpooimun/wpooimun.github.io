@@ -18,6 +18,13 @@ The following document is for the Referred Client:
 
 _Definition of terminologies are provided at the end of the document._
 
+
+# Nature of Support
+I help people become the designers of their personal operating systems by studying the patterns that shape their lives. These patterns often include their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
+
+Support may include (1) reflective coaching conversations, (2) Co-Scheduling exercises, (3) project-related guidance, and (4) other developmental non-clinical approaches where appropriate and mutually agreed upon. Such support do not constitute therapy, treatment, diagnosis, or other licensed professional services.
+
+
 # Suitable Referral Situations
 **Situation 1.** An individual would benefit from support in:
 - Gaining clarity in priorities and decision making
@@ -33,10 +40,6 @@ _Definition of terminologies are provided at the end of the document._
 - Completing homework from existing support
 - Areas mentioned in **Situation 1**
 
-# Nature of Support
-I help people become the designers of their personal operating systems by studying the patterns that shape their lives. These patterns often include their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
-
-Support may include (1) reflective coaching conversations, (2) Co-Scheduling exercises, (3) project-related guidance, and (4) other developmental non-clinical approaches where appropriate and mutually agreed upon. Such support do not constitute therapy, treatment, diagnosis, or other licensed professional services.
 
 # Referral Process
 1. Professional Referrers may introduce an individual to my services and inform me of the referral. 
@@ -49,6 +52,7 @@ Availability of Referral Access Places may vary over time. When no Referral Acce
 - **Option 1:** Join a waiting list.
 - **Option 2:** Engage at the [Standard Rate](#standard-rate), if they wish to proceed immediately.
 Professional Referrers may continue making referrals regardless of the availability of Referral Access Places.
+
 
 # Confidentiality
 Referrals do not automatically create information-sharing arrangements between me and the Professional Referrer. Information will not be shared with the Professional Referrer unless the Referred Client has provided written consent.
