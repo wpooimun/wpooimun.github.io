@@ -4,13 +4,22 @@ title: Professional Referral Guidelines
 nav_exclude: true
 permalink: /guidelines/professional_referral_pathway/
 ---
-These guidelines describe how referrals may be made to my services through selected professionals and organizations. The intention is to provide an additional access pathway for individuals who may benefit from my services while maintaining flexibility for both the referrer and me.
+These guidelines describe how referrals may be made to my services through selected professionals and organizations. The intention is to provide an additional access pathway for individuals who may benefit from my services while maintaining flexibility for both the Professional Referrer and me.
 
 Definition of terminologies are provided at the end of the document.
 
-Client's document about this engagement: <a href="engagements/professional_referral_pathway.md" target="_blank" rel="noopener noreferrer">
-  <button>Engagement Document for Referred Client</button>
+## Engagement Document for Referred Client
+Please provide the following document to the Referred Client.
+
+<a href="/engagements/professional_referral_pathway/" target="_blank" rel="noopener noreferrer">
+  <button>Open Engagement Document</button>
 </a>
+
+<img
+  src="/assets/qr - professional_referral_pathway - client_ver.png"
+  alt="QR Code for Referred Client Engagement Document"
+  width="180">
+
 
 # Suitable Referral Situations
 **Situation 1.** An individual would benefit from support in:
@@ -30,14 +39,14 @@ Client's document about this engagement: <a href="engagements/professional_refer
 # Nature of Support
 I help people become the designers of their personal operating systems by studying the patterns that shape their lives. These patterns often include their behavior, assumptions, interests, thought processes, environments, and workflows. The process is often reflective, experiential, and adaptive, rather than prescriptive, theoretical, and situationally-specific.
 
-Support may include (1) reflective coaching conversations, (2) Co-Scheduling exercises, (3) project-related guidance, and (4) other developmental non-clinical approaches where appropriate and mutually agreed upon. Such support is intended to enhance my services and does not constitute therapy, treatment, diagnosis, or other licensed professional services.
+Support may include (1) reflective coaching conversations, (2) Co-Scheduling exercises, (3) project-related guidance, and (4) other developmental non-clinical approaches where appropriate and mutually agreed upon. Such support do not constitute therapy, treatment, diagnosis, or other licensed professional services.
 
 # Referral Process
 Professional Referrers may introduce an individual to my services and inform me of the referral. Upon verification with the Professional Referrer, the Referred Client may make an appointment with my services through the standard method for a free 30-minute discovery conversation.
 
-Before proceeding, kindly provide the Referred Client the webpage at the beginning of this document.
+Before proceeding, please provide the Referred Client with the engagement document linked at the beginning of this page.
 
-A referral does not guarantee engagement of my services. All referrals remain subject to (1) mutual fit, (2) availability of [Referral Access Places](#referral_access_places), (3) client readiness, and (4) prevailing engagement terms.
+A referral does not guarantee engagement of my services. All referrals remain subject to (1) mutual fit, (2) availability of [Referral Access Places](#referral-access-places), (3) client readiness, and (4) prevailing engagement terms.
 
 Availability of Referral Access Places may vary over time. When no Referral Access Places are available, Referred Clients may:
 - **Option 1:** Join a waiting list.
