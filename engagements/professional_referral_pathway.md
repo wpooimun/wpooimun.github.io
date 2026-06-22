@@ -56,5 +56,10 @@ Information will not be shared with the Professional Referrer unless requested b
 If my services interest you and appear relevant to your needs and goals, I invite you to a free 30-minute discovery conversation. This is an opportunity for us to get to know one another better, explore how we might work together, and determine whether the engagement would be a good fit for both of us.
 
 <a href="https://cal.com/elena-wong/virtual-coaching?duration=30" target="_blank" rel="noopener noreferrer">
-  <button>Book a Session</button>
+  <button>Book a Discovery Call</button>
 </a>
+
+<img
+  src="/assets/qr - discovery_call_booking.png"
+  alt="QR Code for Discovery Call Booking"
+  width="180">
