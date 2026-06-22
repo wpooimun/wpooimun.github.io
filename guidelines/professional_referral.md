@@ -7,11 +7,10 @@ permalink: /guidelines/professional_referral/
 These guidelines describe how referrals may be made to my services through selected professionals and organizations. The intention is to provide an additional access pathway for individuals who may benefit from my services while maintaining flexibility for both the referrer and me.
 
 # Terminologies
-
-| ## Professional Referrer | The professional or organization that refers an individual to my services.                         |
-| ------------------------ | -------------------------------------------------------------------------------------------------- |
-| ## Referred Client       | An individual introduced to my services through a [Professional Referrer](#professional-referrer). |
-
+## Professional Referrer
+The professional or organization that refers an individual to my services.
+## Referred Client
+An individual introduced to my services through a [Professional Referrer](#professional-referrer).
 ## Standard Rate
 The prevailing fee for engaging my services.
 ## Referral Access Rate
