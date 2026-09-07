@@ -47,5 +47,7 @@ There is no obligation to continue afterwards.
 Receive 20 SGD cashback when someone you refer completes their first paid session.  
 The person you refer will also receive 20 SGD cashback after completing their first paid session.
 
+---
+
 # Group Workshop Pricing
 To be announced.
