@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 *Last updated on 03 July 2026.*
 
-# Pricing
+# 1-to-1 Session Pricing
 > All rates are in SGD.
 
 | Package        |   Expiry | Standard Rate | Package Price | Effective Per Session | Total Savings |
@@ -32,7 +32,7 @@ Every paid session includes:
 
 The focus of the sessions may evolve as your situation changes. You do not need to know beforehand which starting point fits you better. That is something we can figure out together.
 
-# Free 30-minute Trial Conversation
+## Free 30-minute Trial Conversation
 Before committing to any paid sessions, you are invited to a complimentary 30-minute conversation.
 
 This allows us to:
@@ -43,6 +43,9 @@ This allows us to:
 
 There is no obligation to continue afterwards.
 
-# Client Referral Program
+## Client Referral Program
 Receive 20 SGD cashback when someone you refer completes their first paid session.  
 The person you refer will also receive 20 SGD cashback after completing their first paid session.
+
+# Group Workshop Pricing
+To be announced.
