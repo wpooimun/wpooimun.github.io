@@ -36,7 +36,7 @@ I work particularly well with people who have a clear goal and
 ## Interest Statement
 My work has always centred on understanding how people function within complex systems. Through research, system design, mentorship, and now coaching, I have explored the same question from different angles: "What helps people navigate complexity to sustain meaningful progress while staying human?"
 
-While I have a deep appreciation for academia, I find myself increasingly drawn to work with tangible, real-world impact. In academic settings, the influence of an idea often remain unknown for years, or even decades. Now, I have the opportunity to test and adapt ideas in real-time, by working alongside the people, learning from their experiences, and continuously refining what is useful in practice.
+While I have a deep appreciation for academia, I find myself increasingly drawn to work with tangible, real-world impact. In academic settings, the influence of an idea often remains unknown for years, or even decades. Now, I have the opportunity to test and adapt ideas in real-time, by working alongside people, learning from their experiences, and continuously refining what is useful in practice.
 
 
 # Areas of Support
@@ -66,13 +66,13 @@ Depending on the situation and with mutual agreement, support may include (1) re
 
 
 # Support Philosophy
-Over the past decade of work, I repeated observed that people function better when the design of their personal systems align with their lifestyles, responsibilities, strengths, and constraints. When alignment is achieved, many things that once felt difficult often become easier to sustain.
+Over the past decade of work, I have repeated observed that people function better when the design of their personal systems aligns with their lifestyles, responsibilities, strengths, and constraints. When alignment is achieved, many things that once felt difficult often become easier to sustain.
 
 I have benefitted from this philosophy as well. Rather than working against my tendencies, I learned to work with it and design my personal system around it.
 
 The only constant in life is change. Strategies that worked previously may no longer fit current circumstances, priorities, or stage of life. As life changes, our personal systems often need to change too.
 
-Rather than viewing setbacks as failures, I view them as data point. They offer clues about what is and is not working. Through curiosity, reflection, and experimentation, we can use those insights to make more informed adjustments and discover approaches that fit us.
+Rather than viewing setbacks as failures, I view them as data points. They offer clues about what is and is not working. Through curiosity, reflection, and experimentation, we can use those insights to make more informed adjustments and discover approaches that fit us.
 
 My role is not to prescribe the "right" way to live or work, but to support people in developing a deeper understanding of themselves and finding ways of operating that are both effective and sustainable.
 
