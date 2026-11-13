@@ -97,7 +97,6 @@ My role is not to prescribe the "right" way to live or work, but to support peop
 > “It felt like future-me was helping present-me navigate hard moments. That framing made the process fell both compassionate and empowering.”  
 > — PhD Candidate
 
-
 > “I went through both relaxing and intense period, which gave me a chance to test out and apply different strategies in real-life situations. I feel more equipped to care for myself.”  
 > — PhD Startup Founder
 
@@ -165,8 +164,8 @@ Developed:
 ## Developmental Programs & Coaching
 *Versilient (2023–Present)*
 
-Delivered 100+ hours conducting Co-Scheduling developmental program.
-Completed 110+ coaching hours since beginning ICF-accredited coach training.
+Delivered 120+ hours conducting Co-Scheduling developmental program.
+Completed 150+ coaching hours since beginning ICF-accredited coach training.
 
 Provided one-to-one coaching on themes:
 - Sustainable productivity
@@ -181,7 +180,7 @@ Provided one-to-one coaching on themes:
 
 | Course / Degree                                                                  | Organization                                                   | Year of Completion |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------ |
-| ICF ACC                                                                          | International Coaching Federation (ICF)                        | Coming soon (2026) |
+| Associate Certified Coach (ACC)                                                  | International Coaching Federation (ICF)                        | 2026               |
 | Khrysalis Coaching Certification Programme Level 1                               | NTUC LearningHub                                               | 2026               |
 | Effectively Keep ADHD Clients On-Time & On-Task                                  | PESI                                                           | 2024               |
 | Motivational Interviewing                                                        | Holbeck College<br>(Udemy)                                     | 2024               |
