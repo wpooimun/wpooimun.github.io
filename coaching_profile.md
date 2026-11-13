@@ -7,7 +7,7 @@ nav_exclude: true
 Personal Human System Coach
 
  **At a Glance**
-* Completed ICF-accredited coach training
+* ICF-ACC
 * PhD in Human-Centred Systems Design
 * Creator of Co-Scheduling developmental program for sustainable planning and execution
 * Additional perspective informed by engineering, scientific research, and systems design
