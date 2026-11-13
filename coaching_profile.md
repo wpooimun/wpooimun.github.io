@@ -4,7 +4,7 @@ title: Coaching Profile
 nav_exclude: true
 ---
 
-Personal Human System Coach
+Personal System Coach
 
  **At a Glance**
 * ICF-ACC
